@@ -1,0 +1,23 @@
+COD Extractor
+http://sc0ty.pl
+Created by sc0ty
+
+DESCRIPTION
+	Software extracting information from BlackBerry COD application files.
+	It is able to extract:
+		- application name,
+		- version number,
+		- vendor string,
+		- description,
+		- creation time,
+		- icon file.
+
+USAGE
+	codextract <file.cod> <file-2.cod> ... <file-n.cod>
+	
+LICENSE
+	This product includes software developed at
+	The Apache Software Foundation (http://www.apache.org/).
+
+AUTHOR
+	Michal Szymaniak <sc0typl at gmail dot com>
